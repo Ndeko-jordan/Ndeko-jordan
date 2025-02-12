@@ -22,7 +22,9 @@ Swahili (100%) | French (80%) | English (60%) | Lingala (70%) | Kinyarwanda (40%
 • Other Skills: Software Security, Mechanical Maintenance
 
 📫 Let's Connect
+
 • ✉️ Email: jordankaduli@gmail.com
+
 • 🔗 LinkedIn: www.linkedin.com /in/jordan-kaduli-753a
 
 <!---
