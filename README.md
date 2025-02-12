@@ -25,7 +25,7 @@ Swahili (100%) | French (80%) | English (60%) | Lingala (70%) | Kinyarwanda (40%
 
 • ✉️ Email: jordankaduli@gmail.com
 
-• 🔗 LinkedIn: www.linkedin.com /in/jordan-kaduli-753a
+• 🔗 LinkedIn: https://www.linkedin.com/in/jordan-kaduli-753aa4292/
 
 <!---
 Ndeko-jordan/Ndeko-jordan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
